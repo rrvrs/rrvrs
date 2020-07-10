@@ -1,7 +1,8 @@
-### Hi there 👋, I am an undergraduate student in Computer Science and Engineering at GGSIP University. I'm a cybersecurity and ML enthusiast. I like coding in python.
+### Hi there 👋,
+I am an undergraduate student in Computer Science and Engineering at GGSIP University. I'm a cybersecurity and ML enthusiast. I like coding in python.
 
-🔭 I’m currently working on face cloning using AI.
-🌱 I’m currently learning cybersecurity.
+- 🔭 I’m currently working on face cloning using AI.
+- 🌱 I’m currently learning cybersecurity.
 <!--
 **rahulsingh237/rahulsingh237** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
