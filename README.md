@@ -22,7 +22,6 @@ My earlier academic work focused on cybersecurity and deep learning, resulting i
 *   Rahul Veer Singh, Bharat Bhushan, Ashi Tyagi (2020). [`Deep Learning Framework for Cybersecurity: Framework, Applications, and Future Research Trends`](https://doi.org/10.1007/978-981-33-4367-2_80). In 2nd International Conference on Emerging Technologies in Data Mining and Information Security, 2020. doi: [`https://doi.org/10.1007/978-981-33-4367-2_80`](https://doi.org/10.1007/978-981-33-4367-2_80)
 *   Rahul Veer Singh, Ashi Tyagi, Srishti Sharma (2020). [`Data Hiding Techniques Using Steganography Algorithms`](http://computers.stmjournals.com/index.php?journal=JoADMS&page=article&op=view&path%5B%5D=2426). In JoADMS 2020, STM Journals.
 
-## 📫 Get In Touch
+## 📫 Get In Touch 
 
-*   **LinkedIn:** [`linkedin.com/in/rahulveersingh/`](https://www.linkedin.com/in/rahulveersingh/)
-*   **Portfolio/Website:** [`https://rahulveersingh.me`](https://rahulveersingh.me)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/srbhr](https://www.linkedin.com/in/rahulveersingh/))
