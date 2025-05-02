@@ -6,37 +6,10 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/rahulsingh237/rahulsingh237/output/github-contribution-grid-snake.svg">
 </picture>
 
-I'm a **Software Engineer 2 @ Zinnia** with a strong focus on **Artificial Intelligence & Machine Learning**. Currently pursuing an **M.Tech in AI/ML at BITS, Pilani**, I'm passionate about building intelligent, scalable systems and contributing actively to **Open Source** 🤝.
+I'm a developer with over 4 years of experience working in software development, AI & LLMs development. Currently pursuing my **Masters in AI/ML**. I'm passionate about building intelligent, scalable systems and contributing actively to **Open Source** 🤝.
 
 *   🧠 **Core Interests:** Deep Learning, AI/ML Applications, Microservices, Distributed Systems, Open Source.
 *   🌱 **Currently:** Enhancing **`srbhr/Resume-Matcher`** (⭐️ 8.7k+), focusing on `new version of Resume-Matcher with better performance and integrating with better models`.
-*   👣 (Formerly): Senior SDE @ Delhivery, Associate Professional SWE @ DXC Technology.
-
----
-
-## 🛠️ Key Skills
-
-*   **AI/ML:** PyTorch, RAG, CAG
-*   **Backend:** Go, Python, Microservices
-*   **Frontend:** ReactJs, NextJs
-*   **Frameworks:** FastAPI, Gin
-*   **Tools:** Git, Docker, SQL/NoSQL Databases, AWS, GCP
-*   **General:** Design Patterns (Factory, Adapter, Singleton), DSA
-
----
-
-## ✨ Highlights
-
-*   **Open Source Contributor:** Actively revamping the popular `srbhr/Resume-Matcher` project.
-*   **Award-Winning Impact (Delhivery):** Recognized multiple times ("Pinnacle Problem Solver" x3, "Above and Beyond") for automation, microservice development & optimization.
-*   **Published Researcher:** 4 International Conference Publications (Cybersecurity focus).
-
----
-
-## 🎓 Education
-
-*   **BITS Pilani:** M.Tech, Artificial Intelligence & Machine Learning (Specialization in Deep Learning)
-*   **GGSIPU:** B.Tech, Computer Science & Engineering (Graduated 2021, CGPA: 8.34)
 
 ---
 
