@@ -1,11 +1,5 @@
 # Hi there 👋, I'm Rahul Veer Singh!
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rahulsingh237/rahulsingh237/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rahulsingh237/rahulsingh237/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/rahulsingh237/rahulsingh237/output/github-contribution-grid-snake.svg">
-</picture>
-
 I'm a developer with over 4 years of experience working in software development, AI & LLMs development. Currently pursuing my **Masters in AI/ML**. I'm passionate about building intelligent, scalable systems and contributing actively to **Open Source** 🤝.
 
 *   🧠 **Core Interests:** Deep Learning, AI/ML Applications, Microservices, Distributed Systems, Open Source.
